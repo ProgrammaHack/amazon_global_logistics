@@ -408,6 +408,5 @@ Il prezzo viene calcolato così:
 
 ## 5.6 SCREENSHOT INTERFACCIA
 
-![Dashboard Amazon Clone](./images/dashboard.png)
+![Dashboard Amazon Clone](./images/dashboard.jpeg)
 
-```
