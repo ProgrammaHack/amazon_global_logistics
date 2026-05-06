@@ -48,7 +48,7 @@ MongoDB non utilizza schemi rigidi, ma si definisce una struttura logica dei doc
 
 ## Schema logico
 
-```json
+```js
 {
   _id: String,
   name: String
@@ -71,7 +71,7 @@ db.sellers.insertMany([
 
 ## Schema logico
 
-```json
+```js
 {
   _id: String,
   name: String,
@@ -98,7 +98,7 @@ db.assets.insertMany([
 
 ## Schema logico
 
-```json
+```js
 {
   sellerId: String,
   assetId: String,
@@ -127,7 +127,7 @@ db.inventory.insertMany([
 
 ## Schema logico
 
-```json
+```js
 {
   assetId: String,
   prices: [
@@ -166,7 +166,7 @@ db.price_history.insertMany([
 
 ## Schema logico
 
-```json
+```js
 {
   assetId: String,
   userId: String,
